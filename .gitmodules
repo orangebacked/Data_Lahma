@@ -1,0 +1,3 @@
+[submodule "projects/covid_geoinsights_pipeline"]
+	path = projects/covid_geoinsights_pipeline
+	url = https://github.com/minigonche/covid_geoinsights_pipeline.git
