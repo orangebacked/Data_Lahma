@@ -1,2 +1,1 @@
-This is an awesome new scientific project that uses `DrWatson`!
-
+This is the repository for the Data Lahma Research Group 
